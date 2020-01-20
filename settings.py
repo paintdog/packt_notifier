@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 settings = {"senderEmail"      : "FROM_ABCDEFG@WWW.COM", # your mail adress (From:)
             "senderPasswort"   : "YOUR_PASSWORT",        # your password
             "empfangsEmail"    : "TO_ABCDEFG@WWW.COM",   # your mail adress (To:)
