@@ -99,6 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# package
 settings.py
 booklist.txt
 *.txt
